@@ -1,0 +1,30 @@
+{
+  "name": "just-login",
+  "version": "1.0.0",
+  "description": "Assingment",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon backend/server",
+    "client": "npm start --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmebipul00/just-login.git"
+  },
+  "keywords": [
+    "just-login"
+  ],
+  "author": "Bipul Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsmebipul00/just-login/issues"
+  },
+  "homepage": "https://github.com/itsmebipul00/just-login#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
