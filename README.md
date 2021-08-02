@@ -1,5 +1,6 @@
-# Loginn
-To start</br>
+# Description
+Customized Login Section for every user as per his preference.
+# To start
 npm run server</br>
 npm run client</br>
 from the root folder</br>
