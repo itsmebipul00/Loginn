@@ -1,5 +1,5 @@
 # Description
-Customized Login Section for every user as per his preference.
+Customized Login Section for every user as per their preference.
 # To start
 npm run server</br>
 npm run client</br>
